@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SadNaRathnayake
+- 👋 Hi, I’m Dilshani 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ^
