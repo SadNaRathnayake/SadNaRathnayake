@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadnarathnayake" alt="sadnarathnayake" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@dilshaninr" target="blank"><img src="https://img.shields.io/twitter/follow/@dilshaninr?logo=twitter&style=for-the-badge" alt="@dilshaninr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dilshaninr" target="blank"><img src="https://img.shields.io/twitter/follow/@dilshaninr?logo=twitter&style=for-the-badge" alt="dilshaninr" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
